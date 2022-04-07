@@ -1,0 +1,93 @@
+.terms_Conditions_container {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  margin: 10rem 0 5rem 0;
+  overflow: hidden !important;
+}
+.terms_Conditions_container h1 {
+  display: flex;
+  justify-content: center;
+  font-size: var(--title-font-size);
+  text-transform: uppercase;
+  margin: 1rem 0 5rem 0;
+}
+.items_wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 10rem;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  border-radius: 10px;
+  padding: 3px;
+  box-shadow: 2px 3px 3px 0px #e53935;
+  width: fit-content;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.btn_text_box {
+  display: flex;
+  justify-content: flex-start;
+  width: fit-content;
+}
+.content {
+  display: flex;
+  color: var(--black-color);
+  font-weight: normal;
+  font-size: small;
+  margin: 0.5rem 0 0 1rem;
+  letter-spacing: 1px;
+  text-transform: lowercase;
+  overflow: hidden;
+  transition: max-height 0.9s ease;
+  transition: all 0.9s ease;
+}
+.item svg {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  width: 3rem;
+  height: 2rem;
+  margin-top: -0.5rem;
+  color: #d3d3d3;
+}
+.margin {
+  margin: 2rem 5rem 2rem 10rem;
+  background: linear-gradient(90deg, #e53935 0%, #d41c1c 100%);
+  padding: 5px;
+}
+.about_roomkast {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 3rem 5rem 10rem;
+}
+svg:hover,
+.active {
+  color: var(--primary-color);
+}
+.accordion_icon {
+  margin-left: auto;
+  transition: transform 0.6s ease;
+}
+.rotate {
+  transform: rotate(180deg);
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 15rem;
+}
+.text {
+  width: 50rem;
+  justify-content: center;
+  align-items: center;
+}

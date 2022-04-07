@@ -1,0 +1,281 @@
+{
+  "Tenants": {
+    "title": "Lejere"
+  },
+  "Landlords": {
+    "title": "Udlejere"
+  },
+  "Old rental portals are": {
+    "title": "Gamle udlejningsportaler er"
+  },
+  "build for": {
+    "title": "bygget til"
+  },
+  "the past": {
+    "title": "fortiden"
+  },
+  "Roomkast is": {
+    "title": "Roomkast er"
+  },
+  "designed": {
+    "title": "designet"
+  },
+  "for": {
+    "title": "til"
+  },
+  "the future": {
+    "title": "fremtiden"
+  },
+  "One platform": {
+    "title": "Én platform"
+  },
+  "Many possibilities": {
+    "title": "Mange muligheder"
+  },
+  "Get relevant info": {
+    "title": "Få relevant info"
+  },
+  "Search by areas": {
+    "title": "Søg efter områder"
+  },
+  "Find a place to live": {
+    "title": "Find et sted at bo"
+  },
+  "Find the right roommate": {
+    "title": "Find den rigtige roommate"
+  },
+  "We are providing full": {
+    "title": "Vi sørger for fuld"
+  },
+  "transparency of user": {
+    "title": "gennemsigtighed af bruger"
+  },
+  "profiles and listed": {
+    "title": "profiler og opførte"
+  },
+  "rooms/apartments so that": {
+    "title": "værelser/lejligheder, så"
+  },
+  "you can feel safe all the time.": {
+    "title": "du kan føle dig tryg hele tiden."
+  },
+  "The easiest way the find a home": {
+    "title": "Den nemmeste måde er at finde et hjem"
+  },
+  "First steps": {
+    "title": "Første skridt"
+  },
+  "Paper work": {
+    "title": "Papirarbejde"
+  },
+  "Legal Advice": {
+    "title": "Juridisk rådgivning"
+  },
+  "Danish Words": {
+    "title": "Danske Ord"
+  },
+  "Pricing": {
+    "title": "Prissætning"
+  },
+  "Pay if you succeed": {
+    "title": "Betal hvis det lykkes"
+  },
+  "Designed in": {
+    "title": "Designet i"
+  },
+  "Denmark": {
+    "title": "Danmark"
+  },
+  "About us": {
+    "title": "Om os"
+  },
+  "Terms & Conditions": {
+    "title": "Vilkår og Betingelser"
+  },
+  "Tips & Tricks": {
+    "title": "Tips og tricks"
+  },
+  "Support": {
+    "title": "Kundeservice"
+  },
+  "Since 2001 we have been developing high-quality protective clothing for motorcycling in Germany that offers optimal safety, is extremely comfortable to wear and looks like urban street wear. The result: functional high-tech clothing that stands out from conventional motorcycle clothing in terms of comfort and aesthetics. Our products have to be able to do much more than just look good and fit perfectly. Before a prototype becomes part of the collection, it goes through dozens of development steps.": {
+    "title": "Siden 2001 har vi udviklet højkvalitets beskyttelsesbeklædning til motorcykler i Tyskland, der tilbyder optimal sikkerhed, er ekstremt behagelig at have på og ligner urban street wear. Resultatet: funktionelt højteknologisk tøj, der skiller sig ud fra konventionelt motorcykeltøj med hensyn til komfort og æstetik. Vores produkter skal kunne meget mere end blot at se godt ud og passe perfekt. Før en prototype bliver en del af samlingen, gennemgår den dusinvis af udviklingstrin."
+  },
+  "The Vision": {
+    "title": "Visionen"
+  },
+  "The Brand": {
+    "title": "Mærket"
+  },
+  "Users": {
+    "title": "Brugere"
+  },
+  "Acceptance of terms": {
+    "title": "Accept af vilkår"
+  },
+  "Account": {
+    "title": "Konto"
+  },
+  "Listings and contracts": {
+    "title": "Fortegnelser og kontrakter"
+  },
+  "Commissions": {
+    "title": "Kommissioner"
+  },
+  "Payments": {
+    "title": "Betalinger"
+  },
+  "License to use the platform": {
+    "title": "Licens til at bruge platformen"
+  },
+  "Disclaimer": {
+    "title": "Ansvarsfraskrivelse"
+  },
+  "Third-party materials": {
+    "title": "Tredjepartsmaterialer"
+  },
+  "CopyRight": {
+    "title": "Ophavsret"
+  },
+  "CopyRight infringement": {
+    "title": "Krænkelse af ophavsret"
+  },
+  "User content": {
+    "title": "Brugerindhold"
+  },
+  "User content representations and warranties": {
+    "title": "Brugerindholdsrepræsentationer og garantier"
+  },
+  "User content Disclaimer": {
+    "title": "Ansvarsfraskrivelse for brugerindhold"
+  },
+  "Confidentiality of information": {
+    "title": "Fortrolighed af oplysninger"
+  },
+  "Personal data": {
+    "title": "Personlig data"
+  },
+  "Prohibited activities": {
+    "title": "Forbudte aktiviteter"
+  },
+  "Disclaimer of warranties": {
+    "title": "Ansvarsfraskrivelse af garantier"
+  },
+  "Electronic communications": {
+    "title": "Elektronisk kommunikation"
+  },
+  "Indemnification": {
+    "title": "Skadesløsholdelse"
+  },
+  "Charges and termination": {
+    "title": "Afgifter og opsigelse"
+  },
+  "Assignment": {
+    "title": "Opgave"
+  },
+  "Integration clause": {
+    "title": "Integrationsklausul"
+  },
+  "Final provisions": {
+    "title": "Afsluttende bestemmelser"
+  },
+  "Contact information": {
+    "title": "Kontakt information"
+  },
+  "Privacy policy": {
+    "title": "Fortrolighedspolitik"
+  },
+  "General information": {
+    "title": "Generel information"
+  },
+  "Types of information gathered": {
+    "title": "Typer af indsamlet information"
+  },
+  "How long we keep your data": {
+    "title": "Hvor længe opbevarer vi dine data"
+  },
+  "How we use your information": {
+    "title": "Hvordan vi bruger dine oplysninger"
+  },
+  "How do you get my consent?": {
+    "title": "Hvordan får du mit samtykke?"
+  },
+  "How we share information": {
+    "title": "Hvordan vi deler information"
+  },
+  "Protecting your information": {
+    "title": "Beskyttelse af dine oplysninger"
+  },
+  "Rights": {
+    "title": "Rettigheder"
+  },
+  "Children's online privacy protection": {
+    "title": "Børns online beskyttelse af privatlivets fred"
+  },
+  "Editing and deleting information": {
+    "title": "Redigering og sletning af oplysninger"
+  },
+  "Third parties": {
+    "title": "Tredje partier"
+  },
+  "Contact us": {
+    "title": "Kontakt os"
+  },
+  "Cookie policy": {
+    "title": "Cookie politik"
+  },
+  "Roomkast is owned and operated by Roomkast ApS. This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:": {
+    "title": "Roomkast ejes og drives af Roomkast ApS. Denne cookiepolitik forklarer, hvordan og hvorfor cookies og andre lignende teknologier kan gemmes på og tilgås fra din enhed, når du bruger eller besøger:"
+  },
+  "https://roomkast.com(Hereinafter referred to as “Roomkast”). The information collected through cookies will be under responsibility and in charge of:": {
+    "title": "https://roomkast.com(I det følgende benævnt 'Roomkast'). De oplysninger, der indsamles gennem cookies, vil være under ansvar og ansvarlig for:"
+  },
+  "Roomkast ApS. With address in Elbagade 69, 1. th. Copenhagen,Denmark, info@roomkast.com. This cookie policy should be read togetherwith our privacy policy and our terms and conditions.By using thewebsite, you accept the use of cookies by Roomkast, in the termscontained in this policy.": {
+    "title": "Roomkast ApS. Med adresse i Elbagade 69, 1. th. København,Danmark, info@roomkast.com. Denne cookiepolitik bør læses sammen med vores privatlivspolitik og vores vilkår og betingelser. Ved at bruge hjemmesiden accepterer du Roomkasts brug af cookies i betingelserne i denne politik."
+  },
+  "What are cookies?": {
+    "title": "Hvad er cookies?"
+  },
+  "Refusing or withdrawing consent to the use of cookies": {
+    "title": "Afvisning eller tilbagetrækning af samtykke til brugen af cookies"
+  },
+  "First-party cookies": {
+    "title": "Førstepartscookies"
+  },
+  "Third-party cookies": {
+    "title": "Tredjepartscookies"
+  },
+  "Social cookies": {
+    "title": "Sociale cookies"
+  },
+  "Cookies we use": {
+    "title": "Cookies vi bruger"
+  },
+  "Purpose of our cookies": {
+    "title": "Formålet med vores cookies"
+  },
+  "Frederiksberg": {
+    "title": "Frederiksberg"
+  },
+  "Nørrebro": {
+    "title": "Nørrebro"
+  },
+  "Vesterbro": {
+    "title": "Vesterbro"
+  },
+  "Østerbro": {
+    "title": "Østerbro"
+  },
+  "Valby": {
+    "title": "Valby"
+  },
+  "Safety as a goal": {
+    "title": "Sikkerhed som mål"
+  },
+  "design as a": {
+    "title": "design som et"
+  },
+  "Matter": {
+    "title": "Anliggende"
+  }
+}

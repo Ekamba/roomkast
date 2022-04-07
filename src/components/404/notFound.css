@@ -1,0 +1,110 @@
+.not_found {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 12rem;
+  overflow: hidden;
+  margin-bottom: -1rem;
+}
+.notFound_code {
+  font-size: 10rem !important;
+  color: var(--primary-color);
+}
+.not_found p {
+  font-size: medium;
+}
+.not_found span {
+  font-size: 20px;
+  font-weight: 600;
+}
+.not_found a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  height: 2.5rem;
+  width: 15%;
+  font-weight: 100;
+  text-transform: uppercase;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  border: none;
+  font-weight: 100;
+  cursor: pointer;
+  border-radius: 50px;
+}
+.not_found a:hover {
+  background-color: var(--shadow-color);
+}
+svg {
+  /* margin-bottom: -1rem; */
+}
+.round {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 120px;
+  background-color: #ffffff;
+  aspect-ratio: 1 / 1;
+  border-radius: 81px;
+  position: absolute;
+  left: -35rem;
+  top: 9rem;
+}
+.round2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 120px;
+  background-color: #ffffff;
+  aspect-ratio: 1 / 1;
+  border-radius: 81px;
+  position: absolute;
+  left: -20rem;
+  top: 15rem;
+}
+.round3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 120px;
+  background-color: #ffffff;
+  aspect-ratio: 1 / 1;
+  border-radius: 81px;
+  position: absolute;
+  right: -20rem;
+  top: 9rem;
+}
+.round4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 120px;
+  background-color: #ffffff;
+  aspect-ratio: 1 / 1;
+  border-radius: 81px;
+  position: absolute;
+  right: -35rem;
+  top: 15rem;
+}
+.svg_wrapper {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+}
+.svg {
+  position: relative;
+}
+.not_found .iconsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  bottom: -23rem;
+  right: 30rem;
+}

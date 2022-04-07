@@ -1,0 +1,236 @@
+.tips_tricks {
+  height: 100%;
+  width: 100%;
+}
+.image_wrapper {
+  width: 100%;
+  height: 100%;
+}
+.image {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+}
+.tips_tricks_title {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+.tips_tricks .find_home-steps {
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 50px;
+}
+.tips_tricks .steps {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../images/icon_frame.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 40px 0 0 0;
+}
+.tips_tricks .steps2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../images/icon_frame.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 40px 0 0 0;
+}
+.tips_tricks .steps3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../images/icon_frame.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 40px 0 0 0;
+}
+.tips_tricks .steps4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../images/icon_frame.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 40px 0 0 0;
+}
+.steps img,
+.steps2 img,
+.steps3 img,
+.steps4 img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.tips_tricks .step p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--black-color);
+  background-color: var(--secondary-color);
+  font-size: 15px;
+  box-shadow: 0px 2px 1px 1px rgba(212, 28, 28, 0.35);
+  height: 40px;
+  border-radius: 0 0 20px 20px;
+  font-weight: bold;
+}
+.featured_areas {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tips_tricks_title p,
+.featured_areas p {
+  font-size: var(--title-font-size);
+  color: var(--black-color);
+  margin-bottom: var(--title-font-size);
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.red_line_box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.red_line {
+  margin: 5rem 0 5rem 0;
+  width: 850px;
+  height: 3px;
+  padding: 3px;
+  background: linear-gradient(90deg, #e53935 0%, #d41c1c 100%);
+}
+.grid_items {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+.grid_box {
+  display: grid;
+  flex-direction: column;
+  justify-content: end;
+  background-image: url("../../images/Frederiksberg.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 210px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 5rem 0 0 0;
+}
+.grid_box2 {
+  display: grid;
+  flex-direction: column;
+  justify-content: end;
+  background-image: url("../../images/Nørrebro.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 210px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 5rem 0 0 0;
+}
+.grid_box3 {
+  display: grid;
+  flex-direction: column;
+  justify-content: end;
+  background-image: url("../../images/vesterbro.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 210px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 5rem 0 0 0;
+}
+.grid_box4 {
+  display: grid;
+  flex-direction: column;
+  justify-content: end;
+  background-image: url("../../images/østerbro.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 210px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 5rem 0 0 0;
+}
+.grid_box5 {
+  display: grid;
+  flex-direction: column;
+  justify-content: end;
+  background-image: url("../../images/valby.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 210px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 5rem 0 0 0;
+}
+.grid_box6 {
+  display: grid;
+  flex-direction: column;
+  justify-content: end;
+  background-image: url("../../images/amager.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 210px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 5rem 0 0 0;
+}
+.grid {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 89.5px 10px 100px;
+  grid-template-rows: 80px auto 80px;
+  column-gap: 0.05px;
+  row-gap: 15px;
+}
+.grid_box p,
+.grid_box2 p,
+.grid_box3 p,
+.grid_box4 p,
+.grid_box5 p,
+.grid_box6 p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--black-color);
+  background-color: var(--secondary-color);
+  font-size: 15px;
+  box-shadow: 0px 2px 1px 1px rgba(212, 28, 28, 0.35);
+  height: 40px;
+  border-radius: 0 0 20px 20px;
+  font-weight: bold;
+}

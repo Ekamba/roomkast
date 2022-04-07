@@ -1,0 +1,399 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: var(--secondary-color);
+  overflow: hidden;
+  margin: 0;
+}
+.container img {
+  width: 100%;
+  height: 100%;
+}
+.divider {
+  width: inherit;
+  height: 3px;
+  margin-top: -5px;
+  background: linear-gradient(180deg, #e53935 0%, #ffffff 150%);
+}
+.container .paragraphContainer {
+  position: relative;
+  top: -25rem;
+  left: -17rem;
+}
+.paragraphContainer .first-paragraph {
+  position: absolute;
+  top: 8rem;
+  left: 20rem;
+  width: auto;
+  height: auto;
+  text-transform: uppercase;
+  white-space: pre;
+  font-weight: bold;
+  font-size: 30px;
+  color: var(--secondary-color);
+  line-height: 1.5;
+}
+.paragraphContainer .second-paragraph {
+  position: absolute;
+  top: 11rem;
+  left: 20rem;
+  text-transform: uppercase;
+  white-space: pre;
+  font-weight: bold;
+  color: var(--secondary-color);
+  font-size: 30px;
+  line-height: 1.5;
+}
+.paragraphContainer .second-paragraph span {
+  width: 100px;
+  height: 25px;
+  justify-content: center;
+  align-items: center;
+  padding: 0 10px;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: uppercase;
+  border-radius: 50px;
+  text-decoration: line-through;
+}
+.landlords_video_future_wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  align-items: center;
+}
+.landlords_future_wrapper {
+  display: inline-grid;
+  grid-template-columns: auto auto;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.landlords_future_wrapper .box-paragraph {
+  margin-top: -7rem;
+  background-color: var(--secondary-color);
+  width: 500px;
+  height: 250px;
+  box-shadow: 2px 3px 3px 0px var(--primary-color);
+  border-radius: 40px 40px 40px 0px;
+  border: 1px solid #f7f7f7;
+  transition: all 0.3s ease-in-out;
+}
+.key-wrapper {
+  margin-left: 29.5rem;
+}
+.key-wrapper img {
+  width: 30px;
+  height: 30px;
+}
+.box-paragraph .third-paragraph {
+  position: relative;
+  width: auto;
+  height: auto;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: var(--primary-color);
+  font-size: var(--title-font-size);
+  line-height: 1.5;
+}
+.box-paragraph .fourth-paragraph {
+  top: 4rem;
+  width: auto;
+  height: auto;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: var(--title-font-size);
+  color: var(--primary-color);
+  line-height: 1.5;
+}
+.box-paragraph .fourth-paragraph span {
+  box-sizing: border-box;
+  width: 100px;
+  height: 25px;
+  padding: 0 10px;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(90deg, #e53935 0%, #d41c1c 100%);
+  color: var(--secondary-color);
+  font-weight: bold;
+  font-size: var(--title-font-size);
+  text-transform: uppercase;
+  border-radius: 50px;
+}
+.landlords_app-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem 0 2rem 0;
+}
+.app-link img {
+  top: -10rem;
+  height: 40px;
+  width: 100px;
+}
+img.google_link {
+  height: auto;
+  width: 140px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+.landlords_video_wrapper {
+  display: flex;
+  justify-content: flex-end;
+  height: 100%;
+  width: 100%;
+}
+.landlords_video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: var(--black-color);
+  width: 40rem;
+  height: 30rem;
+  z-index: -1;
+}
+.landlords_video img {
+  width: 50px;
+  height: 50px;
+}
+.landlords_middle {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 800px;
+  background-image: url("../../images/bg01.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.landlords_left-price {
+  display: grid;
+  background-image: url("../../images/bg01.png");
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+  width: 100%;
+}
+.landlords_left-price {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.landlords_left {
+  margin: 5rem 0 5rem 0;
+  width: 100%;
+}
+.title {
+  color: var(--secondary-color);
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: var(--title-font-size);
+  margin: 90px 0 0 0 !important;
+}
+.landlords_price-title {
+  color: var(--secondary-color);
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: var(--title-font-size);
+  margin: 90px -40px 0 0;
+}
+.landlords_left .mobile {
+  height: 430px;
+  width: 250px;
+  margin-bottom: 30px;
+}
+.landlords_left .mobile1 {
+  height: 530px;
+  width: 250px;
+  margin-bottom: 30px;
+}
+.landlords_right {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -10rem;
+  width: 100%;
+}
+.many-possibilities-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--secondary-color);
+  color: var(--black-color);
+  border-radius: 15px 0 15px 0;
+  width: 30rem;
+  margin: 6rem 0 5rem 0;
+}
+.title2 {
+  display: flex !important;
+  flex-direction: row !important;
+  text-transform: uppercase;
+  font-size: var(--title-font-size);
+}
+.relevant-info-box {
+  display: flex;
+  flex-direction: column;
+  color: var(--secondary-color);
+  border-radius: 15px 0 15px 0;
+  padding: 20px 26px;
+}
+.relevant-info-box h3 {
+  text-transform: uppercase;
+  margin: 0 0 20px 20px;
+  font-size: var(--subtitle-font-size);
+  width: 100%;
+}
+
+.long-text-box {
+  padding: 20px 0;
+  font-size: 20px;
+  width: 100%;
+}
+.long-text-box-mate {
+  padding: 20px 0;
+  font-size: 20px;
+  width: 100%;
+  margin-left: 90px;
+}
+.long-text {
+  color: var(--secondary-color);
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 25px;
+}
+.landlords_apps-link {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.landlords_left-price .landlords_apps-link {
+  margin-bottom: 50px;
+}
+.find-home {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.find-home-text {
+  font-size: var(--title-font-size);
+  color: var(--black-color);
+  margin-bottom: var(--title-font-size);
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+.find-home-steps {
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 50px;
+}
+.steps {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-image: url("../../images/icon_frame.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+  margin: 40px 0 0 0;
+}
+.step_box p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--black-color);
+  background-color: var(--secondary-color);
+  font-size: 15px;
+  box-shadow: 0px 2px 1px 1px rgba(212, 28, 28, 0.35);
+  height: 40px;
+  border-radius: 0 0 20px 20px;
+  font-weight: bold;
+}
+.landlords_pricing {
+  display: flex;
+  height: 100vh;
+}
+.pay-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--secondary-color);
+  color: var(--black-color);
+  border-radius: 15px 0 15px 0;
+  width: 25rem;
+  height: 3rem;
+  margin: 3rem 0 5rem 0;
+}
+.succeed {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.long-text-box-price {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 20px 0;
+  font-size: 20px;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.long-text-price {
+  color: var(--secondary-color);
+  display: flex;
+  justify-content: flex-start;
+  font-size: 20px;
+  margin-left: 8rem;
+}
+.landlords_right-price {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 90%;
+  margin-top: 4.99rem;
+  background-image: url("../../images/pricing.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.rec .rec-carousel {
+  width: 100%;
+  height: 100% !important;
+}
+.rec .rec-pagination {
+  display: flex;
+  flex-direction: column;
+  margin: -26rem 1rem 0 0;
+}
+.rec .rec-item-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: fit-content !important;
+}
+
+.rec .rec-arrow-down,
+.rec .rec-arrow-up {
+  visibility: hidden;
+}
+.rec .rec-dot {
+  position: relative;
+  background-color: var(--btn-scroll-color);
+  padding: 0.5rem;
+  outline: none;
+  overflow: hidden;
+  border: none;
+  transition: all 0.3s ease;
+}
+.rec .rec-dot_active {
+  background-color: var(--secondary-color);
+  outline: none;
+  transition: all 0.3s ease;
+}
